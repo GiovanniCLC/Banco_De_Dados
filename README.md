@@ -1,2 +1,3 @@
-# Banco_De_Dados
-Projetos aulas banco de dados / Newton Paiva / Professor João Paulo Aramuni 
+Projeto Banco de Dados do Zé Delivery
+
+<img src="https://github.com/GiovanniCLC/desktop-tutorial/blob/main/Foto_BD_ZeDelivery.PNG"/>
